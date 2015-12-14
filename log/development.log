@@ -1,0 +1,7 @@
+
+
+Started GET "/" for 24.4.239.143 at 2015-12-14 12:20:29 +0000
+Cannot render console from 24.4.239.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/railties-4.2.4/lib/rails/templates/rails/welcome/index.html.erb (3.9ms)
+Completed 200 OK in 41ms (Views: 24.8ms | ActiveRecord: 0.0ms)
