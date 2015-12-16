@@ -8,6 +8,11 @@
 </head>
 <body>
 <%= render '/layouts/nav' %>
+
+<div class="container">
+  <span class="alert"><%= alert %></span>
+  <span class="notice"><%= notice %></span>
+
 <%= yield %>
 
 </body>
